@@ -1,6 +1,3 @@
-# IP2CDN
-已知IP的CDN检测方法
-
 ### IP->CDN验证方式
 
 
@@ -12,6 +9,8 @@
 其中针对cname的项目或服务比较少    [全国主流CDN厂商cname域名汇总](https://github.com/u9sky/cdn-cname-domain)
 
 针对txt可以关键词检测是否有cdn相关字段
+
+
 
 #### 厂商公布的CDN ip段
 
@@ -70,6 +69,10 @@ Akaima
 
 - https://techdocs.akamai.com/origin-ip-acl/docs/update-your-origin-server
 
+百度云
+
+- https://su.baidu.com/help/index.html#/10_changjianwenti/0_HIDE_FAQ/20_baiduyunjiasujiedianIPdizhiduan.md
+
 阿里云
 
 - https://help.aliyun.com/noticelist/articleid/6697641.html
@@ -78,16 +81,21 @@ CF CDN
 
 - https://www.anancdn.com/ips.php
 
+上海云盾CDN
+
+- https://www.yundun.com/help.html#/cdn-ip
+
+censys
+
+- https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Data-Collection
 
 
-##### 来源
 
-[Cloudflare、Gcore、Cloudfront等CDN回源IP段 - 多记 - LOT.PM](https://lot.pm/common-cdn-ip-ranges.html)
+未验证：
 
-[各大CDN的节点IP段-CSDN博客](https://blog.csdn.net/weixin_33777877/article/details/94290005)
-
-[2023年1月最新整理ip段，必应蜘蛛、谷歌蜘蛛、网站卫士、Censys、CloudFlare、上海云盾CDN等ip段 - 陶小桃Blog (52txr.cn)](https://www.52txr.cn/2022/202212ip.html)
-
+- 腾讯云
+- 加速乐
+- 天御云SCDN
 
 
 
